@@ -996,6 +996,7 @@ c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\o
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.sourcelink.json
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\93bul9t1h2-bqjiyaj88i.gz
 c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\yjcjfrbmej-c2jlpeoesf.gz
