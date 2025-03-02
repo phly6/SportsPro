@@ -18,6 +18,45 @@ namespace SportsPro.Controllers
             _context = context;
         }
 
+        public IActionResult ProductForm(int? id)
+        {
+            if (id == null || id == 0) // Create Mode
+            {
+                return View(new Product { ReleaseDate = DateTime.Now }); // Prefill date
+            }
+
+            var product = _context.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Product product)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("ProductForm", product);
+            }
+
+            if (product.ProductID == 0) // New Product
+            {
+                _context.Products.Add(product);
+            }
+            else // Existing Product
+            {
+                _context.Products.Update(product);
+            }
+
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+
         // GET: Product
         public async Task<IActionResult> Index()
         {
@@ -148,21 +187,22 @@ namespace SportsPro.Controllers
             if (product != null)
             {
                 _context.Products.Remove(product);
-            
 
-            await _context.SaveChangesAsync();
-            TempData["SuccessMessage"] = "Product deleted successfully.";
+
+                await _context.SaveChangesAsync();
+                TempData["SuccessMessage"] = "Product deleted successfully.";
             }
             return RedirectToAction(nameof(Index));
         }
 
         //list 
         [Route("/Product/all-products/")]
-        public async Task<IActionResult> List(){
+        public async Task<IActionResult> List()
+        {
             var products = await _context.Products.ToListAsync();
             return View(products);
         }
-        
+
 
         private bool ProductExists(int id)
         {

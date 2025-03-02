@@ -15,7 +15,7 @@
 
 <body>
 
-    <h4>Product</h4>
+    <h4>Add Product</h4>
     <hr />
     <div class="row">
         <div class="col-md-4">
@@ -33,7 +33,7 @@
                 </div>
                 <div class="form-group">
                     <label asp-for="YearlyPrice" class="control-label"></label>
-                    <input asp-for="YearlyPrice" class="form-control" />
+                    <input asp-for="YearlyPrice" class="form-control" value="0.00"/>
                     <span asp-validation-for="YearlyPrice" class="text-danger"></span>
                 </div>
                 <div class="form-group">
@@ -43,7 +43,8 @@
                     <span asp-validation-for="ReleaseDate" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    <input type="submit" value="Create" class="btn btn-primary" />
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <input type="submit" value="Cancel" class="btn btn-primary" />
                 </div>
             </form>
         </div>
