@@ -53,7 +53,7 @@ namespace SportsPro.Controllers
             }
 
             _context.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("List");
         }
 
 
@@ -102,7 +102,7 @@ namespace SportsPro.Controllers
             {
                 _context.Add(product);
                 TempData["SuccessMessage"] = "Product added successfully.";
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(List));
             }
             return View(product);
         }
@@ -155,7 +155,7 @@ namespace SportsPro.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(List));
             }
             return View(product);
         }
@@ -192,7 +192,7 @@ namespace SportsPro.Controllers
                 await _context.SaveChangesAsync();
                 TempData["SuccessMessage"] = "Product deleted successfully.";
             }
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(List));
         }
 
         //list 
