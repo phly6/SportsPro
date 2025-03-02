@@ -1,0 +1,63 @@
+@model IEnumerable<SportsPro.Models.Product>
+
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+<table class="table table-striped table-bordered">
+    <thead class="bg-white text-dark">
+        <tr>
+            <th>
+                Code
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Release Date
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.ProductCode
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.YearlyPrice
+            </td>
+            <td>
+                @item.ReleaseDate
+            </td>
+            <td class="actions">
+                <a asp-controller="Product" asp-action="Edit" asp-route-ProductID="@item.ProductID" asp-route-name="@item.Name" class="btn btn-primary btn-sm">Edit</a>
+            </td>
+            <td class="actions">
+                <a asp-action="Details" asp-route-id="@item.ProductID" class="btn btn-primary btn-sm">Details</a>
+            </td>
+            <td class="actions">
+                <a asp-action="Delete" asp-route-id="@item.ProductID" class="btn btn-primary btn-sm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="text-start mt-3">
+    <a asp-asp-controller="Product" asp-action="Create" class="btn btn-primary btn-sm"><Address> Add Product</Address></a>
+</body>
+</html>

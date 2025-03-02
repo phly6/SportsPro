@@ -1,0 +1,24 @@
+.navbar-brand {
+    color:white
+}
+.navbar-brand:hover {
+    color: white;
+    font-weight: bold;
+}
+.navbar .nav-link:hover {
+    font-weight: bold;
+    color: white !important;
+}
+.navbar-light .nav-link {
+    color: white !important;
+    font-weight: normal;
+    transition: font-weight 0.2s, color 0.2s;
+}
+.navbar .nav-link.active {
+    font-weight: bold !important;
+}
+.table td.actions, .table th.actions {
+    width: 1%; /* Forces the column to shrink */
+    white-space: nowrap; /* Prevents buttons from wrapping */
+    text-align: center; /* Ensures buttons are centered */
+}

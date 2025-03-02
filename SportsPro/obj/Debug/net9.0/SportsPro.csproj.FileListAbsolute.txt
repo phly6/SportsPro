@@ -1,0 +1,1062 @@
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.exe
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Humanizer.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Runtime.Caching.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Security.Permissions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Windows.Extensions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-5ipweew5fc.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-6b9nfc4n3r.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\vh93fmaq7t-agp80tu62r.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\w8c0341wo0-st1cbwfwo5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xm0k7580y4-unj9p35syc.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u48sojoo14-5vj65cig9w.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g8b8eass2m-q2ku51ktnl.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\p2db065m8l-2q4vfeazbq.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8pqpm3rnv2-n1oizzvkh6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u8eu1bo2su-o371a8zbv2.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\nocxptlhdc-7na4sro3qu.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0hksy0jt0h-jeal3x0ldm.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\7fip3qmifx-f8imaxxbri.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\mu1xnh64dk-okkk44j0xs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\ge9t3k9irt-0wve5yxp74.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\el4iwbe9z0-cwzlr5n8x4.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4u20u59qi9-npxfuf8dg6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\2gdcie2fge-wmug9u23qg.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giimfee42s-tey0rigmnh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\fchh72mc0i-j75batdsum.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0rh0inv82e-16095smhkz.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8451taez2s-vy0bq9ydhf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\hbxpugz364-b4skse8du6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\e90m0vsynv-ab1c3rmv7g.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\s1gjafnmsm-u3xrusw2ol.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\bqyi31xy02-56d2bn4wt9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rm912r4jik-mpyigms19s.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cgicxetgtn-73kdqttayv.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\lmc0b5zyp2-bpk8xqwxhs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uen73dgytq-8inm30yfxf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\93fbqi03fh-ve6x09088i.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qnz6udnti8-4gxs3k148c.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cb3yygmibj-9b9oa1qrmt.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\y5waguf6y9-fctod5rc9n.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giq4b2lk89-l2av4jpuoj.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rad1kozhq2-kbynt5jhd9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\jg5q0wyrm7-25iw1kog22.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\m11z9fxpba-c2nslu3uf3.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\q0u4lqh7cl-m39kt2b5c9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\z1y7jjpc1v-2lgwfvgpvi.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qxknvy7zv6-um2aeqy4ik.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g6z8msduyu-wsezl0heh6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0q1rbntfu4-o4kw7cc6tf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cpug0x7vcj-6ukhryfubh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\h3w4btkb3b-zwph15dxgs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4zabob9xan-u33ctipx7g.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8gzwyqkcp0-0td7jq9nxb.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xl53hmffwf-zsyoy62yqm.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\yyntliwzb6-wqejeusuyq.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\5qwpz72bwz-wus95c49fh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\3bq3qy3naa-sjab29p8z5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rragtsghlc-jdpnbaa6vo.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\70f9ur41il-59qolqi738.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\1suqtkm9gm-x0q3zqp4vz.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8l4490pygu-vwa26bmbsk.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\efzv23q0ln-5trh6b1mit.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u127t6yjjf-dsw5v3fbc5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\x5pebnoo7x-afgyafcsqt.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.exe
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Humanizer.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Build.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Mono.TextTemplating.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Newtonsoft.Json.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Common.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Configuration.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Frameworks.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.LibraryModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Packaging.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.ProjectModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Protocol.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\NuGet.Versioning.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.CodeDom.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Convention.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Hosting.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Runtime.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.TypedParts.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\af\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ar\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\az\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\bg\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\da\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\el\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fa\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\he\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\hr\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\hu\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\hy\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\id\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\is\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ku\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\lv\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\mt\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\nb\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\nl\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ro\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\sk\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\sl\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\sr\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\sv\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\uk\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\vi\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.sourcelink.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\93bul9t1h2-t1cqhe9u97.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\yjcjfrbmej-c2jlpeoesf.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\6175xg6ovo-sejl45xvog.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\blybvhtob6-aexeepp0ev.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\hrnx5r553r-xvp3kq03qx.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\vtpxh5qjfa-ausgxo2sd3.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\net8426f33-22vffe00uq.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\38uodnkq2a-cosvhxvwiu.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\2kayxhtv91-qesaa3a1fm.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\1mm7h2yhsm-fvhpjtyr6v.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\memy2viqa8-tmc1g35s3z.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uxyi4gdq9y-fsbi9cje9m.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\68fzvdxmrv-rxsg74s51o.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\2y1t3mkh5d-ee0r1s7dh0.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uz8roqnawu-q9ht133ko3.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\f7qe8gqs1g-jd9uben2k1.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\wcq0cubhyi-gye83jo8yx.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\kfjekjy644-r4e9w2rdcm.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\gha1tuckml-wl58j5mj3v.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xt50fn8mo9-c2oey78nd0.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\gmzlp7hrrt-d4r6k3f320.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\7ofte444cl-j5mq2jizvt.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\kxxmjece0h-keugtjm085.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\odd6pz019j-nvvlpmu67g.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\3rh3f0bryn-zub09dkrxp.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\tj4ig7h0rs-pj5nd1wqec.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\o1p1sh4umx-43atpzeawx.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\zjqinnby6v-v0zj4ognzu.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\5q8x99nnsa-ynyaa8k90p.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\s1pg5i0epw-hrwsygsryq.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\wb3y90yju1-c63t5i9ira.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\w2lzzwrckm-ft3s53vfgj.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\kkrz3n5ott-4094rpi4f9.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\ra74cv5azs-6pdc2jztkx.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\zjq78h86h0-hd3gran6i8.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uqa3lnrnvv-iovd86k7lj.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\fu0wuyqizn-ltid2c489k.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\y1dkxq3t1m-kbrnm935zg.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\igep6lm0r0-8vyfqsqgz1.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\mha7jk2w1v-y7v9cxd14o.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\tsbrm3kx6w-u9q1upor1n.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\7ttyu001nz-h1s4sie4z3.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0ov81fjw69-4d85u1mtcx.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\pein9db5cn-0j3bgjxly4.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-5ipweew5fc.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\3l0tdrku83-m9qm4tazc0.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-6b9nfc4n3r.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\appsettings.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.exe
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Humanizer.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Build.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Common.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Configuration.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Frameworks.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.LibraryModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Packaging.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.ProjectModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Protocol.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\NuGet.Versioning.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\af\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ar\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\az\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\bg\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\da\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\el\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fa\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\he\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\hr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\hu\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\hy\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\id\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\is\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ku\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\lv\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\mt\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\nb\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\nl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ro\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\sk\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\sl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\sr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\sv\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\uk\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\vi\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\93bul9t1h2-bqjiyaj88i.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\yjcjfrbmej-c2jlpeoesf.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\6175xg6ovo-erw9l3u2r3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\blybvhtob6-aexeepp0ev.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\hrnx5r553r-d7shbmvgxk.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\vtpxh5qjfa-ausgxo2sd3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\net8426f33-k8d9w2qqmf.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\38uodnkq2a-cosvhxvwiu.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\2kayxhtv91-ub07r2b239.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\1mm7h2yhsm-fvhpjtyr6v.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\memy2viqa8-b7pk76d08c.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\uxyi4gdq9y-fsbi9cje9m.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\68fzvdxmrv-rzd6atqjts.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\2y1t3mkh5d-ee0r1s7dh0.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\uz8roqnawu-dxx9fxp4il.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\f7qe8gqs1g-jd9uben2k1.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\wcq0cubhyi-khv3u5hwcm.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\kfjekjy644-r4e9w2rdcm.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\gha1tuckml-lcd1t2u6c8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\xt50fn8mo9-c2oey78nd0.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\gmzlp7hrrt-tdbxkamptv.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\7ofte444cl-j5mq2jizvt.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\kxxmjece0h-06098lyss8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\odd6pz019j-nvvlpmu67g.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\3rh3f0bryn-s35ty4nyc5.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\tj4ig7h0rs-pj5nd1wqec.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\o1p1sh4umx-46ein0sx1k.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\zjqinnby6v-v0zj4ognzu.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\5q8x99nnsa-37tfw0ft22.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\s1pg5i0epw-hrwsygsryq.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\wb3y90yju1-pk9g2wxc8p.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\w2lzzwrckm-ft3s53vfgj.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\kkrz3n5ott-6cfz1n2cew.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\ra74cv5azs-6pdc2jztkx.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\zjq78h86h0-493y06b0oq.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\uqa3lnrnvv-iovd86k7lj.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\fu0wuyqizn-vr1egmr9el.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\y1dkxq3t1m-kbrnm935zg.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\igep6lm0r0-jj8uyg4cgr.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\mha7jk2w1v-y7v9cxd14o.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\tsbrm3kx6w-notf2xhcfb.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\7ttyu001nz-h1s4sie4z3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\0ov81fjw69-63fj8s7r0e.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\pein9db5cn-0j3bgjxly4.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\3l0tdrku83-o1o13a6vjx.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-bnkqy1y0r8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\working\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-0p6bfygo43.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\appsettings.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.exe
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Humanizer.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Build.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Common.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Configuration.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Frameworks.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.LibraryModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Packaging.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.ProjectModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Protocol.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\NuGet.Versioning.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\af\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ar\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\az\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\bg\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\da\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\el\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fa\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\he\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\hr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\hu\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\hy\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\id\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\is\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ku\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\lv\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\mt\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\nb\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\nl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ro\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\sk\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\sl\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\sr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\sv\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\uk\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\vi\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\93bul9t1h2-bqjiyaj88i.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\yjcjfrbmej-c2jlpeoesf.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\6175xg6ovo-erw9l3u2r3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\blybvhtob6-aexeepp0ev.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\hrnx5r553r-d7shbmvgxk.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\vtpxh5qjfa-ausgxo2sd3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\net8426f33-k8d9w2qqmf.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\38uodnkq2a-cosvhxvwiu.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\2kayxhtv91-ub07r2b239.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\1mm7h2yhsm-fvhpjtyr6v.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\memy2viqa8-b7pk76d08c.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\uxyi4gdq9y-fsbi9cje9m.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\68fzvdxmrv-rzd6atqjts.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\2y1t3mkh5d-ee0r1s7dh0.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\uz8roqnawu-dxx9fxp4il.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\f7qe8gqs1g-jd9uben2k1.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\wcq0cubhyi-khv3u5hwcm.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\kfjekjy644-r4e9w2rdcm.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\gha1tuckml-lcd1t2u6c8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\xt50fn8mo9-c2oey78nd0.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\gmzlp7hrrt-tdbxkamptv.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\7ofte444cl-j5mq2jizvt.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\kxxmjece0h-06098lyss8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\odd6pz019j-nvvlpmu67g.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\3rh3f0bryn-s35ty4nyc5.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\tj4ig7h0rs-pj5nd1wqec.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\o1p1sh4umx-46ein0sx1k.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\zjqinnby6v-v0zj4ognzu.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\5q8x99nnsa-37tfw0ft22.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\s1pg5i0epw-hrwsygsryq.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\wb3y90yju1-pk9g2wxc8p.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\w2lzzwrckm-ft3s53vfgj.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\kkrz3n5ott-6cfz1n2cew.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\ra74cv5azs-6pdc2jztkx.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\zjq78h86h0-493y06b0oq.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\uqa3lnrnvv-iovd86k7lj.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\fu0wuyqizn-vr1egmr9el.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\y1dkxq3t1m-kbrnm935zg.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\igep6lm0r0-jj8uyg4cgr.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\mha7jk2w1v-y7v9cxd14o.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\tsbrm3kx6w-notf2xhcfb.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\7ttyu001nz-h1s4sie4z3.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\0ov81fjw69-63fj8s7r0e.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\pein9db5cn-0j3bgjxly4.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-0p6bfygo43.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\3l0tdrku83-o1o13a6vjx.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-bnkqy1y0r8.gz
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
