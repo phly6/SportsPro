@@ -1,22 +1,36 @@
-﻿namespace SportsPro.Models
+﻿﻿using System.ComponentModel.DataAnnotations;
+
+namespace SportsPro.Models
 {
-    public class Incident
-    {
+	public class Incident
+	{
 		public int IncidentID { get; set; }
+
+		[Required(ErrorMessage = "Title is required.")]
 		public string Title { get; set; } = string.Empty;
-        public string Description { get; set; } = string.Empty;
-        public DateTime DateOpened { get; set; } = DateTime.Now;
-        public DateTime? DateClosed { get; set; } = null;
 
-		public int CustomerID { get; set; }                   // foreign key property
-		public Customer Customer { get; set; } = null!;       // navigation property
+		[Required(ErrorMessage = "Description is required.")]
+		public string Description { get; set; } = string.Empty;
 
-		public int ProductID { get; set; }                    // foreign key property
-		public Product Product { get; set; } = null!;         // navigation property
+		public DateTime DateOpened { get; set; } = DateTime.Now;
+		public DateTime? DateClosed { get; set; } = null;
 
-		public int TechnicianID { get; set; }                 // foreign key property 
-		public Technician Technician { get; set; } = null!;   // navigation property
-
+		[Required(ErrorMessage = "Customer selection is required.")]
+		public int CustomerID { get; set; }                   // Foreign key property
 		
+		// ✅ Removed [Required] from navigation property
+		public Customer? Customer { get; set; } = null;       // Nullable navigation property
+		
+		[Required(ErrorMessage = "Product selection is required.")]
+		public int ProductID { get; set; }                    // Foreign key property
+		
+		// ✅ Removed [Required] from navigation property
+		public Product? Product { get; set; } = null;         // Nullable navigation property
+		
+		[Required(ErrorMessage = "Technician selection is required.")]
+		public int TechnicianID { get; set; }                 // Foreign key property 
+		
+		// ✅ Removed [Required] from navigation property
+		public Technician? Technician { get; set; } = null;   // Nullable navigation property
 	}
 }

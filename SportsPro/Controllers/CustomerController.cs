@@ -17,6 +17,7 @@ namespace SportsPro._Controllers
         {
             _context = context;
         }
+
         public IActionResult CustomerForm(int? id)
         {
             ViewBag.Countries = _context.Countries
@@ -28,7 +29,7 @@ namespace SportsPro._Controllers
 
             if (id == null || id == 0) // Create Mode
             {
-                return View(new Customer()); // New customer
+                return View(new Customer());
             }
 
             var customer = _context.Customers.Find(id);
@@ -37,65 +38,47 @@ namespace SportsPro._Controllers
                 return NotFound();
             }
 
-            return View(customer); // Edit Mode
+            return View(customer);
         }
 
-[HttpPost]
-[ValidateAntiForgeryToken]
-public IActionResult Save(Customer customer)
-{
-    Console.WriteLine($"[DEBUG] Save method called. CustomerID: {customer.CustomerID}");
-
-    if (!ModelState.IsValid)
-    {
-        Console.WriteLine("[DEBUG] ModelState is invalid. Errors:");
-
-        foreach (var error in ModelState)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Customer customer)
         {
-            foreach (var subError in error.Value.Errors)
+            if (!ModelState.IsValid)
             {
-                Console.WriteLine($"[VALIDATION ERROR] {error.Key}: {subError.ErrorMessage}");
+                ViewBag.Countries = _context.Countries
+                    .Select(c => new SelectListItem
+                    {
+                        Value = c.CountryID.ToString(),
+                        Text = c.Name
+                    }).ToList();
+
+                return View("CustomerForm", customer);
             }
-        }
 
-        ViewBag.Countries = _context.Countries
-            .Select(c => new SelectListItem
+            if (customer.CustomerID == 0) // New Customer
             {
-                Value = c.CountryID.ToString(),
-                Text = c.Name
-            }).ToList();
+                _context.Customers.Add(customer);
+            }
+            else // Updating Existing Customer
+            {
+                var existingCustomer = _context.Customers.AsNoTracking()
+                    .FirstOrDefault(c => c.CustomerID == customer.CustomerID);
 
-        return View("CustomerForm", customer);
-    }
+                if (existingCustomer != null)
+                {
+                    _context.Entry(customer).State = EntityState.Modified;
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
 
-    if (customer.CustomerID == 0) // New Customer
-    {
-        Console.WriteLine("[DEBUG] Adding new customer...");
-        _context.Customers.Add(customer);
-    }
-    else // Updating Existing Customer
-    {
-        Console.WriteLine("[DEBUG] Updating existing customer...");
-
-        var existingCustomer = _context.Customers.AsNoTracking().FirstOrDefault(c => c.CustomerID == customer.CustomerID);
-
-        if (existingCustomer != null)
-        {
-            _context.Entry(customer).State = EntityState.Modified; // Ensure EF tracks the update
+            _context.SaveChanges();
+            return RedirectToAction(nameof(List));
         }
-        else
-        {
-            Console.WriteLine("[ERROR] Customer not found in database!");
-            return NotFound();
-        }
-    }
-
-    _context.SaveChanges();
-    Console.WriteLine("[DEBUG] Changes saved to database.");
-
-    return RedirectToAction(nameof(List));
-}
-
 
         // GET: Customer
         public async Task<IActionResult> Index()
@@ -130,9 +113,6 @@ public IActionResult Save(Customer customer)
             return View();
         }
 
-        // POST: Customer/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("CustomerID,FirstName,LastName,Address,City,State,PostalCode,Phone,Email,CountryID")] Customer customer)
@@ -164,9 +144,6 @@ public IActionResult Save(Customer customer)
             return View(customer);
         }
 
-        // POST: Customer/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("CustomerID,FirstName,LastName,Address,City,State,PostalCode,Phone,Email,CountryID")] Customer customer)
@@ -219,7 +196,6 @@ public IActionResult Save(Customer customer)
             return View(customer);
         }
 
-        // POST: Customer/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -233,6 +209,7 @@ public IActionResult Save(Customer customer)
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(List));
         }
+
         public async Task<IActionResult> List()
         {
             var customers = await _context.Customers.ToListAsync();

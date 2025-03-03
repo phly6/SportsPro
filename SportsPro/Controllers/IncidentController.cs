@@ -17,6 +17,7 @@ namespace SportsPro._Controllers
         {
             _context = context;
         }
+
         public IActionResult IncidentForm(int? id)
         {
             ViewBag.Customers = _context.Customers
@@ -57,7 +58,10 @@ namespace SportsPro._Controllers
         // GET: Incident
         public async Task<IActionResult> Index()
         {
-            var sportsProContext = _context.Incidents.Include(i => i.Customer).Include(i => i.Product).Include(i => i.Technician);
+            var sportsProContext = _context.Incidents
+                .Include(i => i.Customer)
+                .Include(i => i.Product)
+                .Include(i => i.Technician);
             return View(await sportsProContext.ToListAsync());
         }
 
@@ -82,14 +86,6 @@ namespace SportsPro._Controllers
             return View(incident);
         }
 
-        // GET: Incident/Create
-        public IActionResult Create()
-        {
-            ViewData["CustomerID"] = new SelectList(_context.Customers, "CustomerID", "CustomerID");
-            ViewData["ProductID"] = new SelectList(_context.Products, "ProductID", "ProductID");
-            ViewData["TechnicianID"] = new SelectList(_context.Technicians, "TechnicianID", "TechnicianID");
-            return View();
-        }
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Save(Incident incident)
@@ -126,38 +122,11 @@ namespace SportsPro._Controllers
             }
             else // Existing Incident
             {
-                var existingIncident = _context.Incidents.Find(incident.IncidentID);
-                if (existingIncident != null)
-                {
-                    _context.Entry(existingIncident).CurrentValues.SetValues(incident);
-                }
-                else
-                {
-                    return NotFound();
-                }
+                _context.Update(incident);
             }
 
             _context.SaveChanges();
-            return RedirectToAction(nameof(Index));
-        }
-
-        // POST: Incident/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IncidentID,Title,Description,DateOpened,DateClosed,CustomerID,ProductID,TechnicianID")] Incident incident)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(incident);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["CustomerID"] = new SelectList(_context.Customers, "CustomerID", "CustomerID", incident.CustomerID);
-            ViewData["ProductID"] = new SelectList(_context.Products, "ProductID", "ProductID", incident.ProductID);
-            ViewData["TechnicianID"] = new SelectList(_context.Technicians, "TechnicianID", "TechnicianID", incident.TechnicianID);
-            return View(incident);
+            return RedirectToAction(nameof(List));
         }
 
         // GET: Incident/Edit/5
@@ -173,6 +142,7 @@ namespace SportsPro._Controllers
             {
                 return NotFound();
             }
+
             ViewData["CustomerID"] = new SelectList(_context.Customers, "CustomerID", "CustomerID", incident.CustomerID);
             ViewData["ProductID"] = new SelectList(_context.Products, "ProductID", "ProductID", incident.ProductID);
             ViewData["TechnicianID"] = new SelectList(_context.Technicians, "TechnicianID", "TechnicianID", incident.TechnicianID);
@@ -180,8 +150,6 @@ namespace SportsPro._Controllers
         }
 
         // POST: Incident/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("IncidentID,Title,Description,DateOpened,DateClosed,CustomerID,ProductID,TechnicianID")] Incident incident)
@@ -209,8 +177,9 @@ namespace SportsPro._Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(List));
             }
+
             ViewData["CustomerID"] = new SelectList(_context.Customers, "CustomerID", "CustomerID", incident.CustomerID);
             ViewData["ProductID"] = new SelectList(_context.Products, "ProductID", "ProductID", incident.ProductID);
             ViewData["TechnicianID"] = new SelectList(_context.Technicians, "TechnicianID", "TechnicianID", incident.TechnicianID);
@@ -250,8 +219,9 @@ namespace SportsPro._Controllers
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(List));
         }
+
         public async Task<IActionResult> List()
         {
             var incidents = await _context.Incidents.ToListAsync();
