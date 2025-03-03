@@ -17,6 +17,65 @@ namespace SportsPro._Controllers
         {
             _context = context;
         }
+        public IActionResult CustomerForm(int? id)
+        {
+            ViewBag.Countries = _context.Countries
+                .Select(c => new SelectListItem
+                {
+                    Value = c.CountryID.ToString(),
+                    Text = c.Name
+                }).ToList();
+
+            if (id == null || id == 0) // Create Mode
+            {
+                return View(new Customer()); // New customer
+            }
+
+            var customer = _context.Customers.Find(id);
+            if (customer == null)
+            {
+                return NotFound();
+            }
+
+            return View(customer); // Edit Mode
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Customer customer)
+        {
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Countries = _context.Countries
+                    .Select(c => new SelectListItem
+                    {
+                        Value = c.CountryID.ToString(),
+                        Text = c.Name
+                    }).ToList();
+
+                return View("CustomerForm", customer);
+            }
+
+            if (customer.CustomerID == 0) // New Customer
+            {
+                _context.Customers.Add(customer);
+            }
+            else // Existing Customer - Ensure it's being tracked by EF
+            {
+                var existingCustomer = _context.Customers.Find(customer.CustomerID);
+                if (existingCustomer != null)
+                {
+                    _context.Entry(existingCustomer).CurrentValues.SetValues(customer);
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
+
+            _context.SaveChanges();
+            return RedirectToAction("List");
+        }
 
         // GET: Customer
         public async Task<IActionResult> Index()
@@ -62,7 +121,7 @@ namespace SportsPro._Controllers
             {
                 _context.Add(customer);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(List));
             }
             ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
             return View(customer);
@@ -152,9 +211,10 @@ namespace SportsPro._Controllers
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(List));
         }
-         public async Task<IActionResult> List(){
+        public async Task<IActionResult> List()
+        {
             var customers = await _context.Customers.ToListAsync();
             return View(customers);
         }

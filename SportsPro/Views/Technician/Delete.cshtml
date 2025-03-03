@@ -1,7 +1,7 @@
 @model SportsPro.Models.Technician
 
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
 
 <!DOCTYPE html>
@@ -40,8 +40,8 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="TechnicianID" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Delete" class="btn btn-danger" /> 
+        <a asp-action="List" class="btn btn-secondary">Cancel</a>
     </form>
 </div>
 </body>

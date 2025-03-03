@@ -17,6 +17,42 @@ namespace SportsPro._Controllers
         {
             _context = context;
         }
+        public IActionResult IncidentForm(int? id)
+        {
+            ViewBag.Customers = _context.Customers
+                .Select(c => new SelectListItem
+                {
+                    Value = c.CustomerID.ToString(),
+                    Text = c.FirstName + " " + c.LastName
+                }).ToList();
+
+            ViewBag.Products = _context.Products
+                .Select(p => new SelectListItem
+                {
+                    Value = p.ProductID.ToString(),
+                    Text = p.Name
+                }).ToList();
+
+            ViewBag.Technicians = _context.Technicians
+                .Select(t => new SelectListItem
+                {
+                    Value = t.TechnicianID.ToString(),
+                    Text = t.Name
+                }).ToList();
+
+            if (id == null || id == 0) // Create Mode
+            {
+                return View(new Incident { DateOpened = DateTime.Now });
+            }
+
+            var incident = _context.Incidents.Find(id);
+            if (incident == null)
+            {
+                return NotFound();
+            }
+
+            return View(incident);
+        }
 
         // GET: Incident
         public async Task<IActionResult> Index()
@@ -53,6 +89,56 @@ namespace SportsPro._Controllers
             ViewData["ProductID"] = new SelectList(_context.Products, "ProductID", "ProductID");
             ViewData["TechnicianID"] = new SelectList(_context.Technicians, "TechnicianID", "TechnicianID");
             return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Incident incident)
+        {
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Customers = _context.Customers
+                    .Select(c => new SelectListItem
+                    {
+                        Value = c.CustomerID.ToString(),
+                        Text = c.FirstName + " " + c.LastName
+                    }).ToList();
+
+                ViewBag.Products = _context.Products
+                    .Select(p => new SelectListItem
+                    {
+                        Value = p.ProductID.ToString(),
+                        Text = p.Name
+                    }).ToList();
+
+                ViewBag.Technicians = _context.Technicians
+                    .Select(t => new SelectListItem
+                    {
+                        Value = t.TechnicianID.ToString(),
+                        Text = t.Name
+                    }).ToList();
+
+                return View("IncidentForm", incident);
+            }
+
+            if (incident.IncidentID == 0) // New Incident
+            {
+                _context.Incidents.Add(incident);
+            }
+            else // Existing Incident
+            {
+                var existingIncident = _context.Incidents.Find(incident.IncidentID);
+                if (existingIncident != null)
+                {
+                    _context.Entry(existingIncident).CurrentValues.SetValues(incident);
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
+
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
         }
 
         // POST: Incident/Create
@@ -166,7 +252,8 @@ namespace SportsPro._Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-         public async Task<IActionResult> List(){
+        public async Task<IActionResult> List()
+        {
             var incidents = await _context.Incidents.ToListAsync();
             return View(incidents);
         }

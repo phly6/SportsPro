@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SportsPro.Models;
 
-namespace SportsPro._Controllers
+namespace SportsPro.Controllers
 {
     public class TechnicianController : Controller
     {
@@ -17,6 +16,11 @@ namespace SportsPro._Controllers
         {
             _context = context;
         }
+        public async Task<IActionResult> List()
+        {
+            var technicians = await _context.Technicians.ToListAsync();
+            return View(technicians);
+        }
 
         // GET: Technician
         public async Task<IActionResult> Index()
@@ -24,52 +28,12 @@ namespace SportsPro._Controllers
             return View(await _context.Technicians.ToListAsync());
         }
 
-        // GET: Technician/Details/5
-        public async Task<IActionResult> Details(int? id)
+        // ✅ Use a single form for Add & Edit
+        public async Task<IActionResult> TechnicianForm(int? id)
         {
-            if (id == null)
+            if (id == null || id == 0) // Create Mode
             {
-                return NotFound();
-            }
-
-            var technician = await _context.Technicians
-                .FirstOrDefaultAsync(m => m.TechnicianID == id);
-            if (technician == null)
-            {
-                return NotFound();
-            }
-
-            return View(technician);
-        }
-
-        // GET: Technician/Create
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Technician/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("TechnicianID,Name,Email,Phone")] Technician technician)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(technician);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(technician);
-        }
-
-        // GET: Technician/Edit/5
-        public async Task<IActionResult> Edit(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
+                return View(new Technician()); // Return an empty Technician object
             }
 
             var technician = await _context.Technicians.FindAsync(id);
@@ -77,42 +41,31 @@ namespace SportsPro._Controllers
             {
                 return NotFound();
             }
-            return View(technician);
+
+            return View(technician); // Edit Mode
         }
 
-        // POST: Technician/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // ✅ Handles both Create and Edit
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("TechnicianID,Name,Email,Phone")] Technician technician)
+        public async Task<IActionResult> Save(Technician technician)
         {
-            if (id != technician.TechnicianID)
+            if (!ModelState.IsValid)
             {
-                return NotFound();
+                return View("TechnicianForm", technician);
             }
 
-            if (ModelState.IsValid)
+            if (technician.TechnicianID == 0) // New Technician
             {
-                try
-                {
-                    _context.Update(technician);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!TechnicianExists(technician.TechnicianID))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
+                _context.Technicians.Add(technician);
             }
-            return View(technician);
+            else // Existing Technician
+            {
+                _context.Technicians.Update(technician);
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(List));
         }
 
         // GET: Technician/Delete/5
@@ -142,14 +95,10 @@ namespace SportsPro._Controllers
             if (technician != null)
             {
                 _context.Technicians.Remove(technician);
+                await _context.SaveChangesAsync();
             }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-         public async Task<IActionResult> List(){
-            var techs = await _context.Technicians.ToListAsync();
-            return View(techs);
+            return RedirectToAction(nameof(List));
         }
 
         private bool TechnicianExists(int id)
