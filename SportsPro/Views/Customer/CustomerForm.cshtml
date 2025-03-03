@@ -11,7 +11,6 @@
         <form asp-action="Save">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
-            <!-- Hidden field for ID -->
             <input type="hidden" asp-for="CustomerID" />
 
             <div class="form-group">
@@ -64,7 +63,7 @@
 
             <div class="form-group">
                 <label asp-for="CountryID" class="control-label"></label>
-                <select asp-for="CountryID" asp-items="ViewBag.Countries" class="form-control">
+                <select asp-for="CountryID" asp-items="ViewBag.Countries" class="form-control" required>
                     <option value="">-- Select Country --</option>
                 </select>
                 <span asp-validation-for="CountryID" class="text-danger"></span>

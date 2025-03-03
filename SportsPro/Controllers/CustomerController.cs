@@ -40,42 +40,62 @@ namespace SportsPro._Controllers
             return View(customer); // Edit Mode
         }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Save(Customer customer)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Save(Customer customer)
+{
+    Console.WriteLine($"[DEBUG] Save method called. CustomerID: {customer.CustomerID}");
+
+    if (!ModelState.IsValid)
+    {
+        Console.WriteLine("[DEBUG] ModelState is invalid. Errors:");
+
+        foreach (var error in ModelState)
         {
-            if (!ModelState.IsValid)
+            foreach (var subError in error.Value.Errors)
             {
-                ViewBag.Countries = _context.Countries
-                    .Select(c => new SelectListItem
-                    {
-                        Value = c.CountryID.ToString(),
-                        Text = c.Name
-                    }).ToList();
-
-                return View("CustomerForm", customer);
+                Console.WriteLine($"[VALIDATION ERROR] {error.Key}: {subError.ErrorMessage}");
             }
-
-            if (customer.CustomerID == 0) // New Customer
-            {
-                _context.Customers.Add(customer);
-            }
-            else // Existing Customer - Ensure it's being tracked by EF
-            {
-                var existingCustomer = _context.Customers.Find(customer.CustomerID);
-                if (existingCustomer != null)
-                {
-                    _context.Entry(existingCustomer).CurrentValues.SetValues(customer);
-                }
-                else
-                {
-                    return NotFound();
-                }
-            }
-
-            _context.SaveChanges();
-            return RedirectToAction("List");
         }
+
+        ViewBag.Countries = _context.Countries
+            .Select(c => new SelectListItem
+            {
+                Value = c.CountryID.ToString(),
+                Text = c.Name
+            }).ToList();
+
+        return View("CustomerForm", customer);
+    }
+
+    if (customer.CustomerID == 0) // New Customer
+    {
+        Console.WriteLine("[DEBUG] Adding new customer...");
+        _context.Customers.Add(customer);
+    }
+    else // Updating Existing Customer
+    {
+        Console.WriteLine("[DEBUG] Updating existing customer...");
+
+        var existingCustomer = _context.Customers.AsNoTracking().FirstOrDefault(c => c.CustomerID == customer.CustomerID);
+
+        if (existingCustomer != null)
+        {
+            _context.Entry(customer).State = EntityState.Modified; // Ensure EF tracks the update
+        }
+        else
+        {
+            Console.WriteLine("[ERROR] Customer not found in database!");
+            return NotFound();
+        }
+    }
+
+    _context.SaveChanges();
+    Console.WriteLine("[DEBUG] Changes saved to database.");
+
+    return RedirectToAction(nameof(List));
+}
+
 
         // GET: Customer
         public async Task<IActionResult> Index()
@@ -174,7 +194,7 @@ namespace SportsPro._Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(List));
             }
             ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
             return View(customer);

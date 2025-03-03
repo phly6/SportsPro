@@ -1,7 +1,7 @@
 @model SportsPro.Models.Customer
 
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
 
 <!DOCTYPE html>
@@ -74,11 +74,10 @@
         </dd>
     </dl>
     
-    <form asp-action="Delete">
+<form asp-action="Delete">
         <input type="hidden" asp-for="CustomerID" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
-</div>
+        <input type="submit" value="Delete" class="btn btn-danger" /> 
+        <a asp-action="List" class="btn btn-secondary">Cancel</a>
+    </form></div>
 </body>
 </html>
