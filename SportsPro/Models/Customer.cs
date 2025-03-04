@@ -6,9 +6,11 @@ namespace SportsPro.Models
 		public int CustomerID { get; set; }
 
 		[Required(ErrorMessage = "First name is required.")]
+		[Display(Name = "First Name")]
 		public string FirstName { get; set; } = string.Empty;
 
 		[Required(ErrorMessage = "Last name is required.")]
+		[Display(Name = "Last Name")]
 		public string LastName { get; set; } = string.Empty;
 
 		[Required(ErrorMessage = "Address is required.")]
@@ -21,10 +23,12 @@ namespace SportsPro.Models
 		public string State { get; set; } = string.Empty;
 
 		[Required(ErrorMessage = "Postal Code is required.")]
+		[Display(Name = "Postal Code")]
 		public string PostalCode { get; set; } = string.Empty;
 		public string? Phone { get; set; }
 		public string? Email { get; set; }
 		[Required(ErrorMessage = "Country is required.")]
+		[Display(Name = "Country")]
 		public string CountryID { get; set; } = string.Empty;    // foreign key property
 		public Country Country { get; set; } = new Country();           // navigation property
 

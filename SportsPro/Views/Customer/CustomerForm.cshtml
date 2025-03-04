@@ -15,7 +15,7 @@
                 <input type="hidden" asp-for="CustomerID" />
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">First Name</label>
+                    <label asp-for="FirstName" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="FirstName" class="form-control" />
                         <span asp-validation-for="FirstName" class="text-danger"></span>
@@ -23,7 +23,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Last Name</label>
+                    <label asp-for="LastName" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="LastName" class="form-control" />
                         <span asp-validation-for="LastName" class="text-danger"></span>
@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Email</label>
+                    <label asp-for="Email" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="Email" class="form-control" type="email" />
                         <span asp-validation-for="Email" class="text-danger"></span>
@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Phone</label>
+                    <label asp-for="Phone" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="Phone" class="form-control" type="tel" />
                         <span asp-validation-for="Phone" class="text-danger"></span>
@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Address</label>
+                    <label asp-for="Address" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="Address" class="form-control" />
                         <span asp-validation-for="Address" class="text-danger"></span>
@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">City</label>
+                    <label asp-for="City" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="City" class="form-control" />
                         <span asp-validation-for="City" class="text-danger"></span>
@@ -63,7 +63,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">State</label>
+                    <label asp-for="State" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="State" class="form-control" />
                         <span asp-validation-for="State" class="text-danger"></span>
@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Postal Code</label>
+                    <label asp-for="PostalCode" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <input asp-for="PostalCode" class="form-control" />
                         <span asp-validation-for="PostalCode" class="text-danger"></span>
@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="form-group row mt-2">
-                    <label class="col-sm-3 col-form-label text-start">Country</label>
+                    <label asp-for="CountryID" class="col-sm-3 col-form-label text-start"></label>
                     <div class="col-sm-9">
                         <select asp-for="CountryID" asp-items="ViewBag.Countries" class="form-control" required>
                             <option value="">-- Select Country --</option>
