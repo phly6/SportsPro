@@ -22,12 +22,6 @@ namespace SportsPro.Controllers
             return View(technicians);
         }
 
-        // GET: Technician
-        public async Task<IActionResult> Index()
-        {
-            return View(await _context.Technicians.ToListAsync());
-        }
-
         public async Task<IActionResult> TechnicianForm(int? id)
         {
             if (id == null || id == 0) // Create Mode
