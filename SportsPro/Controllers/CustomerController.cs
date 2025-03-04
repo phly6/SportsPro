@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SportsPro.Models;
 
+//TODO: Debug Customer 'Add'
+
 namespace SportsPro._Controllers
 {
     public class CustomerController : Controller
@@ -80,14 +82,14 @@ namespace SportsPro._Controllers
             return RedirectToAction(nameof(List));
         }
 
-        // GET: Customer
+/*         // GET: Customer
         public async Task<IActionResult> Index()
         {
             var sportsProContext = _context.Customers.Include(c => c.Country);
             return View(await sportsProContext.ToListAsync());
         }
 
-        // GET: Customer/Details/5
+ */        // GET: Customer/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -106,7 +108,7 @@ namespace SportsPro._Controllers
             return View(customer);
         }
 
-        // GET: Customer/Create
+/*         // GET: Customer/Create
         public IActionResult Create()
         {
             ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID");
@@ -126,7 +128,7 @@ namespace SportsPro._Controllers
             ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
             return View(customer);
         }
-
+ */
         // GET: Customer/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
