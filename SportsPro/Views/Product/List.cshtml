@@ -4,6 +4,16 @@
     Layout = "_Layout";
 }
 
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-info text-center fw-bold" role="alert"
+    style="background-color: #17c1e8; color: white; font-size: 1.4rem;">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
 <!DOCTYPE html>
 
 <html>
@@ -17,16 +27,16 @@
     <thead class="bg-white text-dark">
         <tr>
             <th>
-                Code
+                @Html.DisplayNameFor(model => model.ProductCode)
             </th>
             <th>
-                Name
+                @Html.DisplayNameFor(model => model.Name)
             </th>
             <th>
-                Price
+                @Html.DisplayNameFor(model => model.YearlyPrice)
             </th>
             <th>
-                Release Date
+                @Html.DisplayNameFor(model => model.ReleaseDate)
             </th>
         </tr>
     </thead>

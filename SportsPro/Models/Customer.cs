@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿// TODO: Trace 'CountryID' variable to change [Display]
+
+using System.ComponentModel.DataAnnotations;
 namespace SportsPro.Models
 {
 	public class Customer
@@ -30,8 +32,10 @@ namespace SportsPro.Models
 		[Required(ErrorMessage = "Country is required.")]
 		[Display(Name = "Country")]
 		public string CountryID { get; set; } = string.Empty;    // foreign key property
+		[Display(Name = "Country")]
 		public Country Country { get; set; } = new Country();           // navigation property
 
+		[Display(Name = "Name")]
 		public string FullName => FirstName + " " + LastName;   // read-only property
 	}
 }

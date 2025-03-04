@@ -46,10 +46,12 @@ namespace SportsPro.Controllers
             if (product.ProductID == 0) // New Product
             {
                 _context.Products.Add(product);
+                TempData["SuccessMessage"] = "Product added successfully.";
             }
             else // Existing Product
             {
                 _context.Products.Update(product);
+                TempData["SuccessMessage"] = "Product updated successfully.";
             }
 
             _context.SaveChanges();
@@ -100,13 +102,24 @@ namespace SportsPro.Controllers
         {
             if (ModelState.IsValid)
             {
+                foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    Console.WriteLine("Validation Error: " + error.ErrorMessage);
+                }
                 _context.Add(product);
-                TempData["SuccessMessage"] = "Product added successfully.";
-                return RedirectToAction(nameof(List));
-            }
-            return View(product);
-        }
+                await _context.SaveChangesAsync();
 
+                // Debugging: Confirm this line executes
+                Console.WriteLine("Before setting TempData");
+                TempData["SuccessMessage"] = "Product added successfully.";
+                Console.WriteLine("TempData Set: " + TempData["SuccessMessage"]);
+
+                return RedirectToAction(nameof(List)); // ✅ Redirect ensures TempData persists
+            }
+
+            Console.WriteLine("ModelState Invalid: TempData was not set");
+            return View(product); // ❌ If we return View(), TempData will be cleared
+        }
         // GET: Product/Edit/5
         [HttpGet]
         public async Task<IActionResult> Edit(int? ProductID)
@@ -143,6 +156,7 @@ namespace SportsPro.Controllers
                     _context.Update(product);
                     await _context.SaveChangesAsync();
                     TempData["SuccessMessage"] = "Product updated successfully.";
+                    Console.WriteLine("TempData Message Set: " + TempData["SuccessMessage"]); // Debugging
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -187,10 +201,9 @@ namespace SportsPro.Controllers
             if (product != null)
             {
                 _context.Products.Remove(product);
-
-
                 await _context.SaveChangesAsync();
                 TempData["SuccessMessage"] = "Product deleted successfully.";
+                Console.WriteLine("TempData Message Set: " + TempData["SuccessMessage"]); // Debugging
             }
             return RedirectToAction(nameof(List));
         }
