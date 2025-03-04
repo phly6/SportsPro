@@ -28,7 +28,6 @@ namespace SportsPro.Controllers
             return View(await _context.Technicians.ToListAsync());
         }
 
-        // ✅ Use a single form for Add & Edit
         public async Task<IActionResult> TechnicianForm(int? id)
         {
             if (id == null || id == 0) // Create Mode
@@ -45,7 +44,6 @@ namespace SportsPro.Controllers
             return View(technician); // Edit Mode
         }
 
-        // ✅ Handles both Create and Edit
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Save(Technician technician)

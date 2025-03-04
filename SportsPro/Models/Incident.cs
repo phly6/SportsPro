@@ -18,19 +18,16 @@ namespace SportsPro.Models
 		[Required(ErrorMessage = "Customer selection is required.")]
 		public int CustomerID { get; set; }                   // Foreign key property
 		
-		// ✅ Removed [Required] from navigation property
 		public Customer? Customer { get; set; } = null;       // Nullable navigation property
 		
 		[Required(ErrorMessage = "Product selection is required.")]
 		public int ProductID { get; set; }                    // Foreign key property
 		
-		// ✅ Removed [Required] from navigation property
 		public Product? Product { get; set; } = null;         // Nullable navigation property
 		
 		[Required(ErrorMessage = "Technician selection is required.")]
 		public int TechnicianID { get; set; }                 // Foreign key property 
 		
-		// ✅ Removed [Required] from navigation property
 		public Technician? Technician { get; set; } = null;   // Nullable navigation property
 	}
 }
