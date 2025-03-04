@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj": {}
+    "c:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj": {
+    "c:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj",
+        "projectUniqueName": "c:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj",
         "projectName": "SportsPro",
-        "projectPath": "C:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj",
+        "projectPath": "c:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\SportsPro.csproj",
         "packagesPath": "C:\\Users\\Gixxe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\obj\\",
+        "outputPath": "c:\\Users\\Gixxe\\Dropbox\\School\\COP_2839\\case_study_start\\FinalProject\\SportsPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

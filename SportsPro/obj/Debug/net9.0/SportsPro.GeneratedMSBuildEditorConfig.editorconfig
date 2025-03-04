@@ -17,157 +17,157 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportsPro
 build_property.RootNamespace = SportsPro
-build_property.ProjectDir = C:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\
+build_property.ProjectDir = c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro
+build_property.MSBuildProjectDirectory = c:\Users\Gixxe\Dropbox\School\COP_2839\case_study_start\FinalProject\SportsPro
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Create.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Delete.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Details.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Edit.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Index.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/List.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Country/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Create.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/CustomerForm.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/CustomerForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Delete.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Details.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Edit.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/List.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Customer/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Home/about.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Home/about.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Home/Index.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Create.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Delete.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Details.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Edit.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/IncidentForm.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/IncidentForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcSW5jaWRlbnRGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Index.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/List.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Create.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Delete.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Details.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Edit.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/List.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/ProductForm.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Product/ProductForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Rm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Shared/_Layout.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Create.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Delete.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Details.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Edit.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/List.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/TechnicianForm.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/TechnicianForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxUZWNobmljaWFuRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/_ViewImports.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/_ViewStart.cshtml]
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
