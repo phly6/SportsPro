@@ -58,15 +58,6 @@ namespace SportsPro.Controllers
             return RedirectToAction("List");
         }
 
-
-        // GET: Product
-        public async Task<IActionResult> Index()
-        {
-            var products = await _context.Products.ToListAsync();
-            return View(products);
-            // return View(await _context.Products.ToListAsync());
-        }
-
         // GET: Product/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -82,95 +73,6 @@ namespace SportsPro.Controllers
                 return NotFound();
             }
 
-            return View(product);
-        }
-
-        // GET: Product/Create
-        [HttpGet]
-        [Route("/Product/Create")]
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Product/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductID,ProductCode,Name,YearlyPrice,ReleaseDate")] Product product)
-        {
-            if (ModelState.IsValid)
-            {
-                foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
-                {
-                    Console.WriteLine("Validation Error: " + error.ErrorMessage);
-                }
-                _context.Add(product);
-                await _context.SaveChangesAsync();
-
-                // Debugging: Confirm this line executes
-                Console.WriteLine("Before setting TempData");
-                TempData["SuccessMessage"] = "Product added successfully.";
-                Console.WriteLine("TempData Set: " + TempData["SuccessMessage"]);
-
-                return RedirectToAction(nameof(List)); // ✅ Redirect ensures TempData persists
-            }
-
-            Console.WriteLine("ModelState Invalid: TempData was not set");
-            return View(product); // ❌ If we return View(), TempData will be cleared
-        }
-        // GET: Product/Edit/5
-        [HttpGet]
-        public async Task<IActionResult> Edit(int? ProductID)
-        {
-            if (ProductID == null)
-            {
-                return NotFound();
-            }
-
-            var product = await _context.Products.FindAsync(ProductID);
-            if (product == null)
-            {
-                return NotFound();
-            }
-            return View(product);
-        }
-
-        // POST: Product/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ProductID,ProductCode,Name,YearlyPrice,ReleaseDate")] Product product)
-        {
-            if (id != product.ProductID)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(product);
-                    await _context.SaveChangesAsync();
-                    TempData["SuccessMessage"] = "Product updated successfully.";
-                    Console.WriteLine("TempData Message Set: " + TempData["SuccessMessage"]); // Debugging
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!ProductExists(product.ProductID))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(List));
-            }
             return View(product);
         }
 
@@ -215,7 +117,6 @@ namespace SportsPro.Controllers
             var products = await _context.Products.ToListAsync();
             return View(products);
         }
-
 
         private bool ProductExists(int id)
         {
