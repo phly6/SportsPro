@@ -31,7 +31,7 @@ namespace SportsPro.Models
 		[Display(Name = "Country")]
 		public string CountryID { get; set; } = string.Empty;    // foreign key property
 		[Display(Name = "Country")]
-		public Country Country { get; set; } = new Country();           // navigation property
+		public Country? Country { get; set; }         // navigation property
 
 		[Display(Name = "Name")]
 		public string FullName => FirstName + " " + LastName;   // read-only property

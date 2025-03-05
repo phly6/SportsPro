@@ -7,8 +7,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SportsPro.Models;
 
-//TODO: Debug Customer 'Add'
-
 namespace SportsPro._Controllers
 {
     public class CustomerController : Controller
@@ -43,45 +41,6 @@ namespace SportsPro._Controllers
             return View(customer);
         }
 
-        /* [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Save(Customer customer)
-        {
-            if (!ModelState.IsValid)
-            {
-                ViewBag.Countries = _context.Countries
-                    .Select(c => new SelectListItem
-                    {
-                        Value = c.CountryID.ToString(),
-                        Text = c.Name
-                    }).ToList();
-
-                return View("CustomerForm", customer);
-            }
-
-            if (customer.CustomerID == 0) // New Customer
-            {
-                _context.Customers.Add(customer);
-            }
-            else // Updating Existing Customer
-            {
-                var existingCustomer = _context.Customers.AsNoTracking()
-                    .FirstOrDefault(c => c.CustomerID == customer.CustomerID);
-
-                if (existingCustomer != null)
-                {
-                    _context.Entry(customer).State = EntityState.Modified;
-                }
-                else
-                {
-                    return NotFound();
-                }
-            }
-
-            _context.SaveChanges();
-            return RedirectToAction(nameof(List));
-        } */
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Save(Customer customer)
@@ -92,11 +51,6 @@ namespace SportsPro._Controllers
                 return View("CustomerForm", customer);
             }
 
-            // Log the data before saving
-            Console.WriteLine($"Saving Customer: ID={customer.CustomerID}, FirstName={customer.FirstName}, LastName={customer.LastName}, CountryID={customer.CountryID}");
-
-
-            // Prevent EF from tracking or modifying the Country object
             _context.Entry(customer).Reference(c => c.Country).IsModified = false;
 
             if (customer.CustomerID == 0) // New Customer
@@ -122,16 +76,8 @@ namespace SportsPro._Controllers
             {
                 _context.SaveChanges();
             }
-            catch (DbUpdateException ex)
+            catch (DbUpdateException)
             {
-                // Log the exception (recommended for debugging)
-                Console.WriteLine($"Database update error: {ex.Message}");
-
-                if (ex.InnerException != null)
-                {
-                    Console.WriteLine($"Inner Exception: {ex.InnerException.Message}");
-                }
-
                 ModelState.AddModelError("", "An error occurred while saving. Ensure the country exists.");
                 ViewBag.Countries = new SelectList(_context.Countries, "CountryID", "Name", customer.CountryID);
                 return View("CustomerForm", customer);
@@ -141,14 +87,8 @@ namespace SportsPro._Controllers
         }
 
 
-        /*         // GET: Customer
-                public async Task<IActionResult> Index()
-                {
-                    var sportsProContext = _context.Customers.Include(c => c.Country);
-                    return View(await sportsProContext.ToListAsync());
-                }
 
-         */        // GET: Customer/Details/5
+        // GET: Customer/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -167,27 +107,6 @@ namespace SportsPro._Controllers
             return View(customer);
         }
 
-        /*         // GET: Customer/Create
-                public IActionResult Create()
-                {
-                    ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID");
-                    return View();
-                }
-
-                [HttpPost]
-                [ValidateAntiForgeryToken]
-                public async Task<IActionResult> Create([Bind("CustomerID,FirstName,LastName,Address,City,State,PostalCode,Phone,Email,CountryID")] Customer customer)
-                {
-                    if (ModelState.IsValid)
-                    {
-                        _context.Add(customer);
-                        await _context.SaveChangesAsync();
-                        return RedirectToAction(nameof(List));
-                    }
-                    ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
-                    return View(customer);
-                }
-         */
         // GET: Customer/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
