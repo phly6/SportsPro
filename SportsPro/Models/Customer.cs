@@ -1,6 +1,4 @@
-﻿// TODO: Trace 'CountryID' variable to change [Display]
-
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 namespace SportsPro.Models
 {
 	public class Customer

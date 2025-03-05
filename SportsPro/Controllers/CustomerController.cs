@@ -43,7 +43,7 @@ namespace SportsPro._Controllers
             return View(customer);
         }
 
-        [HttpPost]
+        /* [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Save(Customer customer)
         {
@@ -80,16 +80,75 @@ namespace SportsPro._Controllers
 
             _context.SaveChanges();
             return RedirectToAction(nameof(List));
-        }
+        } */
 
-/*         // GET: Customer
-        public async Task<IActionResult> Index()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Customer customer)
         {
-            var sportsProContext = _context.Customers.Include(c => c.Country);
-            return View(await sportsProContext.ToListAsync());
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Countries = new SelectList(_context.Countries, "CountryID", "Name", customer.CountryID);
+                return View("CustomerForm", customer);
+            }
+
+            // Log the data before saving
+            Console.WriteLine($"Saving Customer: ID={customer.CustomerID}, FirstName={customer.FirstName}, LastName={customer.LastName}, CountryID={customer.CountryID}");
+
+
+            // Prevent EF from tracking or modifying the Country object
+            _context.Entry(customer).Reference(c => c.Country).IsModified = false;
+
+            if (customer.CustomerID == 0) // New Customer
+            {
+                _context.Customers.Add(customer);
+            }
+            else // Updating Existing Customer
+            {
+                var existingCustomer = _context.Customers.AsNoTracking()
+                    .FirstOrDefault(c => c.CustomerID == customer.CustomerID);
+
+                if (existingCustomer != null)
+                {
+                    _context.Entry(customer).State = EntityState.Modified;
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
+
+            try
+            {
+                _context.SaveChanges();
+            }
+            catch (DbUpdateException ex)
+            {
+                // Log the exception (recommended for debugging)
+                Console.WriteLine($"Database update error: {ex.Message}");
+
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine($"Inner Exception: {ex.InnerException.Message}");
+                }
+
+                ModelState.AddModelError("", "An error occurred while saving. Ensure the country exists.");
+                ViewBag.Countries = new SelectList(_context.Countries, "CountryID", "Name", customer.CountryID);
+                return View("CustomerForm", customer);
+            }
+
+            return RedirectToAction(nameof(List));
         }
 
- */        // GET: Customer/Details/5
+
+        /*         // GET: Customer
+                public async Task<IActionResult> Index()
+                {
+                    var sportsProContext = _context.Customers.Include(c => c.Country);
+                    return View(await sportsProContext.ToListAsync());
+                }
+
+         */        // GET: Customer/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -108,27 +167,27 @@ namespace SportsPro._Controllers
             return View(customer);
         }
 
-/*         // GET: Customer/Create
-        public IActionResult Create()
-        {
-            ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID");
-            return View();
-        }
+        /*         // GET: Customer/Create
+                public IActionResult Create()
+                {
+                    ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID");
+                    return View();
+                }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CustomerID,FirstName,LastName,Address,City,State,PostalCode,Phone,Email,CountryID")] Customer customer)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(customer);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(List));
-            }
-            ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
-            return View(customer);
-        }
- */
+                [HttpPost]
+                [ValidateAntiForgeryToken]
+                public async Task<IActionResult> Create([Bind("CustomerID,FirstName,LastName,Address,City,State,PostalCode,Phone,Email,CountryID")] Customer customer)
+                {
+                    if (ModelState.IsValid)
+                    {
+                        _context.Add(customer);
+                        await _context.SaveChangesAsync();
+                        return RedirectToAction(nameof(List));
+                    }
+                    ViewData["CountryID"] = new SelectList(_context.Countries, "CountryID", "CountryID", customer.CountryID);
+                    return View(customer);
+                }
+         */
         // GET: Customer/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -214,7 +273,9 @@ namespace SportsPro._Controllers
 
         public async Task<IActionResult> List()
         {
-            var customers = await _context.Customers.ToListAsync();
+            var customers = await _context.Customers
+            .Include(c => c.Country)  // Loads Country data
+            .ToListAsync();
             return View(customers);
         }
 
