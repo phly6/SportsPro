@@ -35,5 +35,6 @@ namespace SportsPro.Models
 		public int TechnicianID { get; set; }                 // Foreign key property 
 
 		public Technician? Technician { get; set; } = null;   // Nullable navigation property
+
 	}
 }

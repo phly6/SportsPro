@@ -1,12 +1,12 @@
-@model SportsPro.Models.Incident
+@model SportsPro.ViewModels.IncidentFormViewModel
 
 @{
-    ViewData["Title"] = Model?.IncidentID == 0 ? "Add Incident" : "Edit Incident";
+    ViewData["Title"] = Model?.Incident?.IncidentID == 0 ? "Add Incident" : "Edit Incident";
 }
 
 <h2>@ViewData["Title"]</h2>
 
-@* TODO: Fix layout (2 columns) *@
+@* TODO: Fix all possible NULL references *@
 
 
 <div class="row">
@@ -14,61 +14,63 @@
         <form asp-action="Save">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
-            <input type="hidden" asp-for="IncidentID" />
+            <input type="hidden" asp-for="Incident.IncidentID" />
 
             <div class="form-group">
-                <label asp-for="CustomerID" class="control-label"></label>
-                <select asp-for="CustomerID" asp-items="ViewBag.Customers" class="form-control" required>
-                    <option value="">-- Select Customer --</option>
+                <label asp-for="Incident.CustomerID"></label>
+                <select asp-for="Incident.CustomerID"
+                    asp-items="@(new SelectList(Model.Customers, "CustomerID", "FullName"))" class="form-control">
+                    <option value="">Select a Customer...</option>
                 </select>
-                <span asp-validation-for="CustomerID" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="ProductID" class="control-label"></label>
-                <select asp-for="ProductID" asp-items="ViewBag.Products" class="form-control" required>
-                    <option value="">-- Select Product --</option>
+                <label asp-for="Incident.ProductID"></label>
+                <select asp-for="Incident.ProductID" asp-items="@(new SelectList(Model.Products, "ProductID", "Name"))"
+                    class="form-control">
+                    <option value="">Select a Product...</option>
                 </select>
-                <span asp-validation-for="ProductID" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="TechnicianID" class="control-label"></label>
-                <select asp-for="TechnicianID" asp-items="ViewBag.Technicians" class="form-control" required>
-                    <option value="">-- Select Technician --</option>
+                <label asp-for="Incident.TechnicianID"></label>
+                <select asp-for="Incident.TechnicianID"
+                    asp-items="@(new SelectList(Model.Technicians, "TechnicianID", "Name"))" class="form-control">
+                    <option value="">Select a Technician...</option>
                 </select>
-                <span asp-validation-for="TechnicianID" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
-                <input asp-for="Title" class="form-control" required />
-                <span asp-validation-for="Title" class="text-danger"></span>
+                <label asp-for="Incident.Title" class="control-label"></label>
+                <input asp-for="Incident.Title" class="form-control" required />
+                <span asp-validation-for="Incident.Title" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <textarea asp-for="Description" class="form-control" required></textarea>
-                <span asp-validation-for="Description" class="text-danger"></span>
+                <label asp-for="Incident.Description" class="control-label"></label>
+                <textarea asp-for="Incident.Description" class="form-control" required></textarea>
+                <span asp-validation-for="Incident.Description" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="DateOpened" class="control-label"></label>
-                <input asp-for="DateOpened" class="form-control" type="datetime-local" value="@Model?.DateOpened.ToString("yyyy-MM-ddTHH:mm")" required />
-                <span asp-validation-for="DateOpened" class="text-danger"></span>
+                <label asp-for="Incident.DateOpened" class="control-label"></label>
+                <input asp-for="Incident.DateOpened" class="form-control" type="datetime-local"
+                    value="@Model?.Incident?.DateOpened.ToString("yyyy-MM-ddTHH:mm")" required />
+                <span asp-validation-for="Incident.DateOpened" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="DateClosed" class="control-label"></label>
-                <input asp-for="DateClosed" class="form-control" type="datetime-local" value="@(Model?.DateClosed.HasValue == true ? Model.DateClosed.Value.ToString("yyyy-MM-ddTHH:mm") : "")" />
-                <span asp-validation-for="DateClosed" class="text-danger"></span>
+                <label asp-for="Incident.DateClosed" class="control-label"></label>
+                <input asp-for="Incident.DateClosed" class="form-control" type="datetime-local"
+                    value="@(Model?.Incident?.DateClosed.HasValue == true ? Model.Incident.DateClosed.Value.ToString("yyyy-MM-ddTHH:mm") : "")" />
+                <span asp-validation-for="Incident.DateClosed" class="text-danger"></span>
             </div>
 
             <div class="form-group mt-3">
                 <button type="submit" class="btn btn-primary">
-                    @(Model?.IncidentID == 0 ? "Add Incident" : "Save Changes")
+                    @(Model?.Incident?.IncidentID == 0 ? "Add Incident" : "Save Changes")
                 </button>
-                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                <a asp-action="List" class="btn btn-secondary">Cancel</a>
             </div>
         </form>
     </div>
@@ -76,5 +78,6 @@
 
 @section Scripts {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
 }

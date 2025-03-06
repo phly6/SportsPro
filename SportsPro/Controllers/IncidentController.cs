@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SportsPro.Models;
+using SportsPro.ViewModels;
 
 namespace SportsPro._Controllers
 {
@@ -20,39 +21,29 @@ namespace SportsPro._Controllers
 
         public IActionResult IncidentForm(int? id)
         {
-            ViewBag.Customers = _context.Customers
-                .Select(c => new SelectListItem
-                {
-                    Value = c.CustomerID.ToString(),
-                    Text = c.FirstName + " " + c.LastName
-                }).ToList();
-
-            ViewBag.Products = _context.Products
-                .Select(p => new SelectListItem
-                {
-                    Value = p.ProductID.ToString(),
-                    Text = p.Name
-                }).ToList();
-
-            ViewBag.Technicians = _context.Technicians
-                .Select(t => new SelectListItem
-                {
-                    Value = t.TechnicianID.ToString(),
-                    Text = t.Name
-                }).ToList();
-
-            if (id == null || id == 0) // Create Mode
+            var viewModel = new IncidentFormViewModel
             {
-                return View(new Incident { DateOpened = DateTime.Now });
+                Customers = _context.Customers.ToList(),
+                Products = _context.Products.ToList(),
+                Technicians = _context.Technicians.ToList(),
+                FormMode = id == null || id == 0 ? "Add" : "Edit"
+            };
+
+            if (id == null || id == 0)
+            {
+                viewModel.Incident = new Incident { DateOpened = DateTime.Now };
+            }
+            else
+            {
+                var incident = _context.Incidents.Find(id);
+                if (incident == null)
+                {
+                    return NotFound();
+                }
+                viewModel.Incident = incident;
             }
 
-            var incident = _context.Incidents.Find(id);
-            if (incident == null)
-            {
-                return NotFound();
-            }
-
-            return View(incident);
+            return View(viewModel);
         }
 
         // GET: Incident/Details/5
@@ -155,10 +146,21 @@ namespace SportsPro._Controllers
             return RedirectToAction(nameof(List));
         }
 
-        public async Task<IActionResult> List()
+        public async Task<IActionResult> List(string filter = "All")
         {
-            var incidents = await _context.Incidents.ToListAsync();
-            return View(incidents);
+            var incidents = await _context.Incidents
+                .Include(i => i.Customer)
+                .Include(i => i.Product)
+                .Include(i => i.Technician)
+                .ToListAsync();
+
+            var viewModel = new IncidentManagerViewModel
+            {
+                Incidents = incidents,
+                Filter = filter
+            };
+
+            return View(viewModel);
         }
 
         private bool IncidentExists(int id)

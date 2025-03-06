@@ -1,8 +1,9 @@
-@model IEnumerable<SportsPro.Models.Incident>
-
+@model SportsPro.ViewModels.IncidentManagerViewModel
 @{
     Layout = "_Layout";
 }
+
+@* TODO: Fix all possible NULL references *@
 
 <!DOCTYPE html>
 
@@ -19,31 +20,31 @@
         <thead>
             <tr>
                 <th>
-                    @Html.DisplayNameFor(model => model.Title)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().Title)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Description)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().Description)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.DateOpened)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().DateOpened)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.DateClosed)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().DateClosed)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Customer)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().Customer)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Product)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().Product)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Technician)
+                    @Html.DisplayNameFor(model => model.Incidents.FirstOrDefault().Technician)
                 </th>
                 <th></th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+            @foreach (var item in Model.Incidents)
             {
                 <tr>
                     <td>
@@ -59,13 +60,13 @@
                         @Html.DisplayFor(modelItem => item.DateClosed)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Customer.CustomerID)
+                        @Html.DisplayFor(modelItem => item.Customer.FullName)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Product.ProductID)
+                        @Html.DisplayFor(modelItem => item.Product.Name)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Technician.TechnicianID)
+                        @Html.DisplayFor(modelItem => item.Technician.Name)
                     </td>
                     <td>
                     <td class="actions">
