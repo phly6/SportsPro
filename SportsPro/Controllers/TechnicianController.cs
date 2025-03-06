@@ -10,6 +10,23 @@ namespace SportsPro.Controllers
 {
     public class TechnicianController : Controller
     {
+        public IActionResult GetTechnician()
+        {
+            var technicians = _context.Technicians.ToList();
+            return View(technicians);
+        }
+
+        [HttpPost]
+        public IActionResult SelectTechnician(int? technicianId)
+        {
+            if (technicianId == null || technicianId == 0)
+            {
+                TempData["ErrorMessage"] = "Please select a technician.";
+                return RedirectToAction("GetTechnician");
+            }
+            HttpContext.Session.SetInt32("TechnicianID", technicianId.Value);
+            return RedirectToAction("IncidentsByTechnician", "Incident");
+        }
         private readonly SportsProContext _context;
 
         public TechnicianController(SportsProContext context)

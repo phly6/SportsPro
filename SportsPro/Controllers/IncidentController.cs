@@ -12,6 +12,57 @@ namespace SportsPro._Controllers
 {
     public class IncidentController : Controller
     {
+        
+        public IActionResult EditIncident(int id)
+        {
+            var incident = _context.Incidents.Find(id);
+            if (incident == null)
+            {
+                return NotFound();
+            }
+            return View(incident);
+        }
+
+        [HttpPost]
+        public IActionResult SaveIncident(Incident incident)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("EditIncident", incident);
+            }
+
+            _context.Incidents.Update(incident);
+            _context.SaveChanges();
+            return RedirectToAction("IncidentsByTechnician");
+        }
+
+        public IActionResult IncidentsByTechnician()
+        {
+            int? technicianId = HttpContext.Session.GetInt32("TechnicianID");
+            if (technicianId == null)
+            {
+                return RedirectToAction("GetTechnician", "Technician");
+            }
+
+            var incidents = _context.Incidents
+            .Include(i => i.Customer)
+            .Include(i => i.Product)
+                .Where(i => i.TechnicianID == technicianId && i.DateClosed == null)
+                .ToList();
+            
+            if (incidents == null)
+            {
+                incidents = new List<Incident>();
+            }
+
+            if (!incidents.Any())
+            {
+                ViewBag.Message = "No open incidents assigned to this technician.";
+            }
+
+            return View(incidents);
+        }
+
         private readonly SportsProContext _context;
 
         public IncidentController(SportsProContext context)

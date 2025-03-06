@@ -88,6 +88,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcSW5jaWRlbnRGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/IncidentsByTechnician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcSW5jaWRlbnRzQnlUZWNobmljaWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Incident/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -118,6 +122,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/GetTechnician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxHZXRUZWNobmljaWFuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/Gixxe/Dropbox/School/COP_2839/case_study_start/FinalProject/SportsPro/Views/Technician/List.cshtml]

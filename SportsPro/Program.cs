@@ -15,6 +15,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<SportsProContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("SportsPro")));
 
+builder.Services.AddSession();
+
 //add services above
 var app = builder.Build();
 //config services below 
@@ -30,6 +32,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 
